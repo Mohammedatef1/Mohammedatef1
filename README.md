@@ -79,9 +79,11 @@ Dedicated Front-End Web Developer with a strong foundation in modern technologie
   <a href="https://github.com/mohammedatef1">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=mohammedatef1&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="Mohammed Atef's github-readme-stats"/>
   </a>
+  <!--
   <a href="https://github.com/mohammedatef1">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammedatef1&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Mohammed Atef's github-readme-streak-stats"/>
   </a>
+  -->
 </p>
 
 ## 🗓️ Contribution Graph
