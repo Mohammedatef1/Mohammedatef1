@@ -53,7 +53,7 @@ Dedicated Front-End Web Developer with a strong foundation in modern technologie
 ## 📬 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamedatef22">
+  <a href="https://www.linkedin.com/in/mohammedatef22">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="background-color: white;">
   </a>
   <!--
