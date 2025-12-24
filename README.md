@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohammedatef1&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedatef1" /> 
 </p>
 
-Dedicated Front-End Web Developer with a strong foundation in modern technologies, specializing in React.js and Next.js. Experienced in building dynamic, responsive, and user-friendly web applications focused on performance and usability. Passionate about learning new industry trends and committed to delivering high-quality web solutions.
+I am a full stack developer with focus on building reliable web applications end-to-end. I take ownership of problems, write production-grade code, and continuously refine systems beyond “it works“.
 
 ## 🤖 Skills and Technologies
 
@@ -21,15 +21,6 @@ Dedicated Front-End Web Developer with a strong foundation in modern technologie
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="/assets/TypeScript.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="/assets/bootstarp.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind css" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="/assets/Sass.svg" alt="sass" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="/assets/react.svg" alt="react" width="40" height="40"/>
   </a>
@@ -39,9 +30,18 @@ Dedicated Front-End Web Developer with a strong foundation in modern technologie
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="./assets/NextJS-Dark.svg" alt="Next js" width="40" height="40"/>
   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="./assets/vite.svg" alt="vite.js" width="40" height="40"/>
+  <!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="/assets/bootstarp.svg" alt="bootstrap" width="40" height="40"/>
+  </a> -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="/assets/TailwindCSS-Dark.svg" alt="Tailwind css" width="40" height="40"/>
   </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="/assets/Sass.svg" alt="sass" width="40" height="40"/>
+  </a>
+  <!-- <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="./assets/vite.svg" alt="vite.js" width="40" height="40"/>
+  </a> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="./assets/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -53,7 +53,7 @@ Dedicated Front-End Web Developer with a strong foundation in modern technologie
 ## 📬 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammedatef22">
+  <a href="https://www.linkedin.com/in/mohammedatef22" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" style="background-color: white;">
   </a>
   <!--
@@ -69,27 +69,27 @@ Dedicated Front-End Web Developer with a strong foundation in modern technologie
   -->
 </p>
 
-## 📊 TOP Language
+<!-- ## 📊 TOP Language
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedatef1&layout=compact&theme=gotham&env=PAT_1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedatef1&layout=compact&theme=gotham&env=PAT_1) -->
 
-## 🔥 &nbsp; My Stats
+<!-- ## 🔥 &nbsp; My Stats
 
 <p align="center">
   <a href="https://github.com/mohammedatef1">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=mohammedatef1&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="Mohammed Atef's github-readme-stats"/>
   </a>
-  <!--
+  
   <a href="https://github.com/mohammedatef1">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammedatef1&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Mohammed Atef's github-readme-streak-stats"/>
   </a>
-  -->
-</p>
-
+ 
+</p> -->
+<!-- 
 ## 🗓️ Contribution Graph
 
 <p align="center">
   <a href="https://wakatime.com/@Goblin8888">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedatef1&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
   </a>
-</p>
+</p> -->
